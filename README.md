@@ -5,6 +5,11 @@ No installation required. No internet needed. Works 100% on your Windows PC!
 
 ---
 
+## ⬇️ Download 
+
+Download the latest version from release page
+---
+
 ## 🔍 What is PDF OCR?
 
 PDF OCR (Optical Character Recognition for PDF) is a technology that makes scanned PDF files, images, or documents readable and searchable by converting the pictures of text into actual text data.
