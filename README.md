@@ -46,20 +46,6 @@ PDF OCR (Optical Character Recognition for PDF) is a technology that makes scann
 
 ---
 
-## 📂 Portable PDF OCR App – Folder Structure
-
-```plaintext
-JeevsPDFOCR/
-├── Jeevs PDF OCR.exe
-├── tesseract/
-│   └── tesseract.exe, tessdata/
-├── poppler/
-│   └── Library/bin/pdftoppm.exe, ...
-├── qpdf/
-│   └── bin/qpdf.exe, ...
-└── ...
-
-
 Do not rename, move, or remove these folders!
 
 Do not rename, move, or remove these folders!
@@ -98,4 +84,20 @@ Poppler PDF tools
 QPDF
 
 Python Tkinter
+
+
+
+## 📂 Portable PDF OCR App – Folder Structure
+
+```plaintext
+JeevsPDFOCR/
+├── Jeevs PDF OCR.exe
+├── tesseract/
+│   └── tesseract.exe, tessdata/
+├── poppler/
+│   └── Library/bin/pdftoppm.exe, ...
+├── qpdf/
+│   └── bin/qpdf.exe, ...
+└── ...
+
 
