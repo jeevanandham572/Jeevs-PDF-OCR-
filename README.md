@@ -7,7 +7,9 @@ No installation required. No internet needed. Works 100% on your Windows PC!
 
 ## ⬇️ Download 
 
-Download the latest version from release page
+**Download the latest version from release page
+**
+
 ---
 
 ## 🔍 What is PDF OCR?
