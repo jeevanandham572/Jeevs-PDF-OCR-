@@ -46,9 +46,8 @@ PDF OCR (Optical Character Recognition for PDF) is a technology that makes scann
 
 ---
 
-Do not rename, move, or remove these folders!
+DO NOT RENAME, MOVE, OR REMOVE THESE FOLDERS!
 
-Do not rename, move, or remove these folders!
 
 📝 License
 Jeevs PDF OCR is open-source and released under the MIT License.
@@ -77,13 +76,13 @@ You can download traineddata from (https://github.com/tesseract-ocr/tessdata)
 
 🤝 Credits
 
-Tesseract OCR
+•	Tesseract OCR
 
-Poppler PDF tools
+•	Poppler PDF tools
 
-QPDF
+•	QPDF
 
-Python Tkinter
+•	Python Tkinter
 
 
 
